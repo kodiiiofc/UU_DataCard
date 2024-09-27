@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.КарточкаДанных" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+
+    <style name="Theme.КарточкаДанных" parent="Base.Theme.КарточкаДанных" />
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorSecondary">#E8EAF6</color>
+    <color name="background">#FFFFFF</color>
+
+
+</resources>

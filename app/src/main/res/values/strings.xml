@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Карточка данных</string>
+    <string name="menu_exit">Выход</string>
+    <string name="tv_pick_birthday">Выберите дату рождения</string>
+    <string name="tv_pick_image">Выберите изображение</string>
+    <string name="et_first_name">Введите имя</string>
+    <string name="et_last_name">Введите фамилию</string>
+    <string name="tv_image">Фото профиля</string>
+    <string name="tv_data">Данные профиля</string>
+    <string name="tv_events_header">События</string>
+</resources>
